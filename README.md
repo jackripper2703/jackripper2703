@@ -5,4 +5,4 @@
 <a href="https://www.codewars.com/users/jackripper2703" target="blank"><img align="center" src="https://www.codewars.com/users/jackripper2703/badges/large" alt="jackripper2703"/></a>
 </p>
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/Sad-Jack/gh-pages/dist/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://<your_username>.github.io/<repository_name>/dist/github-contribution-grid-snake.svg)
