@@ -18,10 +18,12 @@ jobs:
         with:
           github_user_name: Sad-Jack # Ваш ник на GitHub
 
-      - name: Push the generated Snake
+      - name: Add snake to the repository
         run: |
+          mkdir -p dist
+          mv ./github-contribution-grid-snake.svg ./dist/github-contribution-grid-snake.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Generated snake animation" || echo "No changes to commit"
-          git push origin output --force
+          git push
