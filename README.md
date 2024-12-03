@@ -7,3 +7,5 @@
 </p>
 
 ![Snake animation](https://github.com/Sad-Jack/Sad-Jack/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Animation](./dist/github-contribution-grid-snake.svg)
