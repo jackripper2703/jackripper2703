@@ -5,5 +5,4 @@
 <a href="https://www.codewars.com/users/jackripper2703" target="blank"><img align="center" src="https://www.codewars.com/users/jackripper2703/badges/large" alt="jackripper2703"/></a>
 </p>
 
-
-[GitHub Contribution Snake Animation](https://Sad-Jack.github.io/PartyPlanner)
+![Snake animation](https://raw.githubusercontent.com/Sad-Jack/Sad-Jack/output/github-contribution-grid-snake-dark.svg)
