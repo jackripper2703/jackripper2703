@@ -11,6 +11,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Права на запись в репозиторий
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -21,7 +24,7 @@ jobs:
           github_user_name: Sad-Jack
 
       - name: Upload build artifact
-        uses: actions/upload-artifact@v3  # Обновлено на v3
+        uses: actions/upload-artifact@v3
         with:
           name: github-pages-${{ github.run_id }}  # Уникальное имя артефакта
           path: dist/
@@ -31,4 +34,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
-          target_branch: gh-pages
+          publish_branch: gh-pages  # Правильный параметр
