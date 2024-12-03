@@ -1,17 +1,15 @@
-name: Generate Snake Animation
+name: Generate and Deploy Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Запуск ежедневно
-  workflow_dispatch: # Ручной запуск
+    - cron: "0 0 * * *"  # Запуск ежедневно
+  workflow_dispatch:
   push:
     branches:
-      - master # Запуск при пуше в master
+      - main  # Запуск при пуше в main
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -20,11 +18,17 @@ jobs:
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Sad-Jack # Ваш никнейм
+          github_user_name: Sad-Jack
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: github-pages-${{ github.run_id }}  # Уникальное имя артефакта
+          path: dist/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist  # Папка, содержащая сгенерированные SVG
-          target_branch: gh-pages  # Публикуем на ветку gh-pages
+          publish_dir: dist
+          target_branch: gh-pages
