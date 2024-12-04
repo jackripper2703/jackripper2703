@@ -32,7 +32,7 @@ QA Automation Engineer с опытом работы более 3 лет. Увл�
 
 
 <p align="center">
-<a href="https://www.codewars.com/users/jackripper2703" target="blank"><img align="center" src="https://www.codewars.com/users/jackripper2703/badges/large" alt="jackripper2703"/></a>
+<a href="https://www.codewars.com/users/Sad-Jack" target="blank"><img align="center" src="https://www.codewars.com/users/Sad-Jack/badges/large" alt="Sad-Jack"/></a>
 </p>
 
 ![Snake animation](https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake-dark.svg)
