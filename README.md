@@ -116,18 +116,33 @@ QA Automation Engineer с опытом работы более 3 лет. Увл�
 
 
 <p align="center">
+
+   <a href="https://www.sololearn.com/en/certificates/CC-NV6X6H3J" target="_blank">
+      <img src="dist/java_intermediate.jpg" alt="curs_selenium_java" width="300" />
+   </a>
+
    <a href="https://stepik.org/cert/2466534" target="_blank">
       <img src="dist/curs_selenium_java.jpg" alt="curs_selenium_java" width="300" />
    </a>
+
    <a href="https://stepik.org/cert/2427706" target="_blank">
       <img src="dist/curs_api_rest_assured.jpg" alt="curs_api_rest_assured" width="300" />
    </a>
-</p>
-<p align="center">
+
    <a href="https://stepik.org/cert/2093169" target="_blank">
       <img src="dist/curs_selenium_python.jpg" alt="curs_selenium_python" width="300" />
    </a>
+
    <a href="https://stepik.org/cert/2440785" target="_blank">
       <img src="dist/curs_html_css.jpg" alt="curs_html_css" width="300" />
    </a>
+
+   <a href="https://www.sololearn.com/en/certificates/CC-NVNGG3W6" target="_blank">
+      <img src="dist/introduction_to_html.jpg" alt="curs_selenium_java" width="300" />
+   </a>
+
+   <a href="https://www.sololearn.com/en/certificates/CC-OCZMJC4D" target="_blank">
+      <img src="dist/introduction_to_java.jpg" alt="curs_selenium_java" width="300" />
+   </a>
+
 </p>
