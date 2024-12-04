@@ -7,4 +7,3 @@
 <a href="https://www.codewars.com/users/jackripper2703" target="blank"><img align="center" src="https://www.codewars.com/users/jackripper2703/badges/large" alt="jackripper2703"/></a>
 </p>
 
-![Stepic Stats](https://img.shields.io/endpoint?url=https://stepik.org/api/users/389575207/statistics)
