@@ -115,7 +115,7 @@ QA Automation Engineer с опытом работы более 3 лет. Увл�
 готов погружаться в сложные процессы тестирования и предлагать решения — я здесь.
 
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<p align="center">
    <a href="https://www.sololearn.com/en/certificates/CC-NV6X6H3J" target="_blank">
       <img src="dist/java_intermediate.jpg" alt="curs_selenium_java" width="200" class="cert-image" />
    </a>
@@ -144,12 +144,3 @@ QA Automation Engineer с опытом работы более 3 лет. Увл�
       <img src="dist/introduction_to_java.jpg" alt="curs_selenium_java" width="200" class="cert-image" />
    </a>
 </p>
-
-<style>
-   .cert-image {
-      transition: transform 0.3s ease;
-   }
-   .cert-image:hover {
-      transform: scale(1.6);
-   }
-</style>
