@@ -1,3 +1,5 @@
+
+![Snake animation](https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake-dark.svg)
 <h1 align="center">Hi 👋 I'M Kostya</h1>
 <h3 align="center">QA automation</h3>
 
@@ -5,4 +7,4 @@
 <a href="https://www.codewars.com/users/jackripper2703" target="blank"><img align="center" src="https://www.codewars.com/users/jackripper2703/badges/large" alt="jackripper2703"/></a>
 </p>
 
-![Snake animation](https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake-dark.svg)
+![Stepic Stats](https://img.shields.io/endpoint?url=https://stepic.org/api/users/389575207/statistics)
