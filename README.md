@@ -116,8 +116,8 @@ QA Automation Engineer с опытом работы более 3 лет. Увл�
 
 
 <p align="center">
-<img src="https://stepik.org/certificate/7212a2057c07ae3c0aedcd6dad0cfc7105f38076.png?resolution=high" alt="curs_4" width="300" />
-<img src="https://stepik.org/certificate/78a6fd95571a41fe162a38a0585befa2825980bf.png?resolution=high" alt="curs_2" width="300" />
-<img src="https://stepik.org/certificate/7ef202de086a641c56fe1e6e3a5b851e2d6f4c70.png?resolution=high" alt="curs_1" width="300" />
-<img src="https://stepik.org/certificate/49e283fb9ce1f0a0bc358a6176c8ccaa2e7a2795.png?resolution=high" alt="curs_3" width="300" />
+   <img src="https://stepik.org/certificate/7212a2057c07ae3c0aedcd6dad0cfc7105f38076.png" alt="curs_selenium_java" width="300" />
+   <img src="https://stepik.org/certificate/78a6fd95571a41fe162a38a0585befa2825980bf.png" alt="curs_api_rest_assured" width="300" />
+   <img src="https://stepik.org/certificate/7ef202de086a641c56fe1e6e3a5b851e2d6f4c70.png" alt="curs_selenium_python" width="300" />
+   <img src="https://stepik.org/certificate/49e283fb9ce1f0a0bc358a6176c8ccaa2e7a2795.png" alt="curs_html_css" width="300" />
 </p>
