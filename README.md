@@ -15,6 +15,8 @@ QA Automation Engineer с опытом работы более 3 лет. Увл�
 - **CI/CD**: **Jenkins**, **GitLab**
 - **Отчеты и логирование**: **Allure**, **Kibana**
 - **Контейнеризация**: **Docker**
+  
+  ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
 ## 📚 Мои проекты:
 1. **Java + Rest Assured + Maven**  
