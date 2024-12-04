@@ -1,7 +1,4 @@
 # Привет, я Константин! 👋
-
----
-
 ## Содержание:
 - [🚀 Что я умею](#what-i-can-do)
 - [📚 Мои проекты](#my-projects)
@@ -30,6 +27,56 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,py,bash,css,html" alt="Languages" />
 </p>
+
+<p align="right">
+  <b>Инструменты разработки:</b>  
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,maven,jenkins,postman" alt="Development Tools" />
+</p>
+
+<p align="left">
+  <b>Работа с системами контроля версий:</b>  
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
+</p>
+
+<p align="right">
+  <b>Тестирование и автоматизация:</b>  
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=selenium,gherkin" alt="Testing" />
+</p>
+
+<p align="left">
+  <b>Инфраструктура и DevOps:</b>  
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,powershell,bash" alt="DevOps" />
+</p>
+
+<p align="right">
+  <b>Базы данных и аналитика:</b>  
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=postgres,elasticsearch,grafana" alt="Databases and Analytics" />
+</p>
+
+<p align="left">
+  <b>Операционные системы:</b>  
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" alt="Operating Systems" />
+</p>
+
+<p align="right">
+  <b>Дизайн и работа с UI:</b>  
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=figma" alt="UI Tools" />
+</p>
+
 
 ## <a id="what-i-can-do"></a>🚀 Что я умею:
 
