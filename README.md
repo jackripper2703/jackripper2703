@@ -3,66 +3,69 @@
 QA Automation Engineer с опытом работы более 3 лет. Увлекаюсь автоматизацией тестирования и всегда стремлюсь улучшить
 качество продуктов, с которыми работаю.
 
-## 🌐 Связаться со мной:
+
+<p align="right">
+  <b> 🌐 Связаться со мной:</b>  
+</p>
 <p align="right">
     <a href="https://t.me/JACK_R_I_P" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="JACK_R_I_P" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/jack-ripper-367171340/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack-ripper-367171340" height="30" width="40" /></a>
 </p>
 
 
-<p align="center">
+<p align="left">
   <b>Языки программирования:</b>  
 </p>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,py,bash,css,html" alt="Languages" />
 </p>
 
-<p align="center">
+<p align="right">
   <b>Инструменты разработки:</b>  
 </p>
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,maven,jenkins,postman" alt="Development Tools" />
 </p>
 
-<p align="center">
+<p align="left">
   <b>Работа с системами контроля версий:</b>  
 </p>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
 </p>
 
-<p align="center">
+<p align="right">
   <b>Тестирование и автоматизация:</b>  
 </p>
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=selenium,gherkin" alt="Testing" />
 </p>
 
-<p align="center">
+<p align="left">
   <b>Инфраструктура и DevOps:</b>  
 </p>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,powershell,bash" alt="DevOps" />
 </p>
 
-<p align="center">
+<p align="right">
   <b>Базы данных и аналитика:</b>  
 </p>
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=postgres,elasticsearch,grafana" alt="Databases and Analytics" />
 </p>
 
-<p align="center">
+<p align="left">
   <b>Операционные системы:</b>  
 </p>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" alt="Operating Systems" />
 </p>
 
-<p align="center">
+<p align="right">
   <b>Дизайн и работа с UI:</b>  
 </p>
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=figma" alt="UI Tools" />
 </p>
 
