@@ -147,10 +147,9 @@ QA Automation Engineer с опытом работы более 3 лет. Увл�
 
 <style>
    .cert-image {
-      transition: transform 0.3s ease; /* Плавное увеличение */
+      transition: transform 0.3s ease;
    }
-
    .cert-image:hover {
-      transform: scale(1.6); /* Увеличение размера на 10% */
+      transform: scale(1.6);
    }
 </style>
