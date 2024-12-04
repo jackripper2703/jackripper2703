@@ -105,7 +105,7 @@ QA Automation Engineer с опытом работы более 3 лет. Увл�
 ![Snake animation](https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake-dark.svg)
 
 
-<p align="center">
+<p align="right">
 <a href="https://www.codewars.com/users/Sad-Jack" target="blank"><img align="center" src="https://www.codewars.com/users/Sad-Jack/badges/large" alt="Sad-Jack"/></a>
 </p>
 
