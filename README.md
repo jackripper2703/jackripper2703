@@ -130,31 +130,31 @@
 ## <a id="certificates"></a>🏅 Сертификаты:
 
 <p align="center">
-   <a href="https://www.sololearn.com/en/certificates/CC-NV6X6H3J" target="_blank">
+   <a href="https://www.sololearn.com/en/certificates/CC-NV6X6H3J" target="_blank" rel="noopener noreferrer">
       <img src="dist/java_intermediate.jpg" alt="curs_selenium_java" width="200" class="cert-image" />
    </a>
 
-   <a href="https://stepik.org/cert/2466534" target="_blank">
+   <a href="https://stepik.org/cert/2466534" target="_blank" rel="noopener noreferrer">
       <img src="dist/curs_selenium_java.jpg" alt="curs_selenium_java" width="200" class="cert-image" />
    </a>
 
-   <a href="https://stepik.org/cert/2427706" target="_blank">
+   <a href="https://stepik.org/cert/2427706" target="_blank" rel="noopener noreferrer">
       <img src="dist/curs_api_rest_assured.jpg" alt="curs_api_rest_assured" width="200" class="cert-image" />
    </a>
 
-   <a href="https://stepik.org/cert/2093169" target="_blank">
+   <a href="https://stepik.org/cert/2093169" target="_blank" rel="noopener noreferrer">
       <img src="dist/curs_selenium_python.jpg" alt="curs_selenium_python" width="200" class="cert-image" />
    </a>
 
-   <a href="https://stepik.org/cert/2440785" target="_blank">
+   <a href="https://stepik.org/cert/2440785" target="_blank" rel="noopener noreferrer">
       <img src="dist/curs_html_css.jpg" alt="curs_html_css" width="200" class="cert-image" />
    </a>
 
-   <a href="https://www.sololearn.com/en/certificates/CC-NVNGG3W6" target="_blank">
+   <a href="https://www.sololearn.com/en/certificates/CC-NVNGG3W6" target="_blank" rel="noopener noreferrer">
       <img src="dist/introduction_to_html.jpg" alt="curs_selenium_java" width="200" class="cert-image" />
    </a>
 
-   <a href="https://www.sololearn.com/en/certificates/CC-OCZMJC4D" target="_blank">
+   <a href="https://www.sololearn.com/en/certificates/CC-OCZMJC4D" target="_blank" rel="noopener noreferrer">
       <img src="dist/introduction_to_java.jpg" alt="curs_selenium_java" width="200" class="cert-image" />
    </a>
 </p>
